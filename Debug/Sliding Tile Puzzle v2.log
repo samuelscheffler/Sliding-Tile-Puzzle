@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\samuel\onedrive - harford community college\2nd semester\c++ programming\sliding tile puzzle v2\sliding tile puzzle v2\source.cpp(304): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sliding Tile Puzzle v2.vcxproj -> C:\Users\Samuel\OneDrive - Harford Community College\2nd Semester\C++ Programming\Sliding Tile Puzzle v2\Debug\Sliding Tile Puzzle v2.exe
+  Sliding Tile Puzzle v2.vcxproj -> C:\Users\Samuel\OneDrive - Harford Community College\2nd Semester\C++ Programming\Sliding Tile Puzzle v2\Debug\Sliding Tile Puzzle v2.pdb (Full PDB)
